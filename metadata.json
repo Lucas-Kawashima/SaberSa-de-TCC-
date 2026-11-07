@@ -1,0 +1,6 @@
+{
+  "name": "SaberSaúde Educativo",
+  "description": "Portal educativo de saúde baseado em evidências científicas para compreensão de sintomas comuns, triagem orientativa, combate à desinformação e direcionamento a serviços médicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
